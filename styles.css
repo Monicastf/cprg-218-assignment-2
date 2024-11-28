@@ -3,7 +3,7 @@
 * {
     box-sizing: border-box;
     color: #2d2014;
-   }
+}
 
    header{
     background-color: #cfe5d1;
@@ -19,7 +19,8 @@
         display: block;
         margin:auto;
     }
-
+    background-color: #efd8de; 
+    font-family: "Noto Sans", sans-serif;
    }
    .buttons{
     display: flex;
