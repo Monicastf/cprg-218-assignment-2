@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     box-sizing: border-box;
+    color: #2d2014;
    }
 
    header{
     background-color: #cfe5d1;
     padding: 10px;
     margin-bottom: 20px;
-    color: #2d2014;
     text-align: center;
    }
 
@@ -26,3 +28,5 @@
     gap: 10px;
     border-radius: 10px;
    }
+
+ 
